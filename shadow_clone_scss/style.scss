@@ -1,0 +1,32 @@
+
+//variables files
+@import 'variables';
+
+
+//resets
+@import 'css_reset';
+
+
+//main code area 
+
+
+
+//components
+@import "./Components/_card";
+
+@import "./Components/_button";
+
+@import "./Components/_imagecarousel1";
+
+
+.carousel{
+    
+    margin-top: 5rem;
+    margin-left: 5rem;
+    height: 25rem;
+    width: 75vh;
+   
+    
+
+}
+//debug
